@@ -73,7 +73,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/codingmastr"
+            href="https://github.com/Furqan-Ali-2004"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#98FF98]"
@@ -81,7 +81,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+            href="https://www.linkedin.com/in/furqan-ali-6341a02a4/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#98FF98]"

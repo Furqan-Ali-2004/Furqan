@@ -14,7 +14,7 @@ const Skills = () => (
       <div className="w-24 h-1 bg-green-500 mx-auto mt-2"></div>
       <p className="text-gray-400 mt-4 text-lg font-semibold">
         A collection of my technical skills and expertise honed through various
-        projects and experiences
+        projects and experiences.
       </p>
     </div>
 
